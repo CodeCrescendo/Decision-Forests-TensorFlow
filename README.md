@@ -13,4 +13,4 @@ Implementing and analyzing Random Forest and Gradient Boosted Trees using Tensor
 
 6.Visualization and Analysis: The hypothesis space is visualized by producing scatter plots of the dataset. The performance of the models is documented, and the effects of varying hyperparameters on accuracy and robustness are analyzed.
 
-7.Submission and Results: The implementation includes code for data preprocessing, model training, evaluation, and visualization. The final submission consists of a cleaned Jupyter notebook and a readme file with group members' names and IDs. The results, including accuracy, log loss, and plots, are documented.
+7.Results: The implementation includes code for data preprocessing, model training, evaluation, and visualization. The results, including accuracy, log loss, and plots, are documented.
